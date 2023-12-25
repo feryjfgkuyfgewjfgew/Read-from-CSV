@@ -19,7 +19,7 @@ Use len() method to get the number of rows and columns.
 print the output
 
 ### PROGRAM:
-
+```
 Developed by: naresh.r
 Register Number:23005559
 import pandas as pd
@@ -28,7 +28,7 @@ print(df.head(10))
 print(df.tail())
 print("Number of rows:",len(df.axes[0))
 print("NUmber of columns:",len(df.axes[1]))
-
+```
 ### OUTPUT:
 
 ![Screenshot 2023-12-25 141630](https://github.com/feryjfgkuyfgewjfgew/Read-from-CSV/assets/150319377/3f8e030d-78aa-4519-bd83-cf32d026ddf2)
